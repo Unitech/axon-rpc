@@ -7,7 +7,7 @@
   "dependencies": {
     "debug": "*",
     "commander": "1.0.5",
-    "json-stringify-safe" : "*",
+    "json-stringify-safe" : "*"
   },
   "devDependencies": {
     "axon": "1.0.0",
